@@ -2,6 +2,8 @@
 
 Application Gradio minimale deployee automatiquement vers Hugging Face Spaces.
 
+Space Hugging Face : https://huggingface.co/spaces/yannthur/SN_GIT
+
 ## Contenu
 
 - `app.py` : interface Gradio "Hello World".
