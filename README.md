@@ -21,3 +21,5 @@ Space Hugging Face : https://huggingface.co/spaces/yannthur/SN_GIT
 - `.pre-commit-config.yaml` : hook Black.
 - `.github/workflows/deploy.yml` : deploiement automatique vers Hugging Face Spaces.
 - `modele_weights.pt` : fichier binaire fictif suivi avec Git LFS.
+
+// Phrase inutile uniquement pour faire une modification pour lancer le test
