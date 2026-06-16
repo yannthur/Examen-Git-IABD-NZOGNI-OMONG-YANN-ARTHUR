@@ -1,3 +1,13 @@
+---
+title: SN GIT
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
 # Examen Git IABD - NZOGNI OMONG YANN ARTHUR
 
 Application Gradio minimale deployee automatiquement vers Hugging Face Spaces.
